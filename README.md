@@ -55,7 +55,7 @@ PodlodkaPerfDemo/
 ## Полезные ссылки
 
 - [Instruments Tutorials](https://developer.apple.com/tutorials/instruments)
-- [SSignposer](https://developer.apple.com/documentation/os/ossignposter)
+- [OSSignposter](https://developer.apple.com/documentation/os/ossignposter)
 - [Доклад с Mobius](https://youtu.be/YxGfGGfgH6U?si=GnSlarLM9A8VcoIY)
 - [Firefox Profiler](https://profiler.firefox.com/)
 - [Firefox Gecko profile format](https://github.com/firefox-devtools/profiler/blob/main/docs-developer/gecko-profile-format.md)
