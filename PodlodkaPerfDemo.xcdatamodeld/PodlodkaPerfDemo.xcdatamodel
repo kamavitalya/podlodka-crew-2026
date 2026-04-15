@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model version="1000" identifier="xcode" lastSavedToolsVersion="26A200" minimumToolsVersion="3.0" system="com.apple.xcode" toolsVersion="16000">
+    <entity name="Article" representedClassName="Article" syncable="NO">
+        <attribute name="id" attributeType="String" optional="NO" syncable="NO"/>
+        <attribute name="title" attributeType="String" optional="NO" syncable="NO"/>
+        <attribute name="content" attributeType="String" optional="NO" syncable="NO"/>
+        <attribute name="imageURL" attributeType="String" optional="NO" syncable="NO"/>
+        <attribute name="imageData" attributeType="Binary Data" optional="YES" syncable="NO"/>
+        <attribute name="isLoaded" attributeType="Boolean" optional="NO" syncable="NO"/>
+        <attribute name="createdAt" attributeType="Date" optional="NO" syncable="NO"/>
+    </entity>
+</model>
