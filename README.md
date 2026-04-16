@@ -59,3 +59,4 @@ PodlodkaPerfDemo/
 - [Доклад с Mobius](https://youtu.be/YxGfGGfgH6U?si=GnSlarLM9A8VcoIY)
 - [Firefox Profiler](https://profiler.firefox.com/)
 - [Firefox Gecko profile format](https://github.com/firefox-devtools/profiler/blob/main/docs-developer/gecko-profile-format.md)
+- [Статья Netflix CPU Flamegraphs](https://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html)
